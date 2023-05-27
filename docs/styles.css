@@ -12,6 +12,7 @@ html,body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100vw;
 
     
 }
@@ -76,12 +77,12 @@ h2{
         color: white;
         font-size: 0.8rem;
         padding: 30px;
-        
+        width: 100vw;
         
     } 
 
     #container{
-        width: 90vw;
+        width: 80vw;
     }
 
     figure img{
